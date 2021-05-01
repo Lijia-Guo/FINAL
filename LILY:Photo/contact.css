@@ -1,0 +1,68 @@
+body{
+	background-color: black;
+}
+
+.nav a{
+	text-decoration: none;
+	color: inherit;
+	padding-top: 30px;
+}
+
+.nav p{
+	color: inherit;
+	font-family: Baskerville;
+	font-size: 24px;
+	letter-spacing: 3px;
+	color: #FFFFFF;
+	display: inline;
+	padding: 10px;
+	background-color: black;
+	margin-top: 50px;
+}
+
+.LOGO{
+	float: right;
+} 
+
+.contactme{
+	font-size: 40px;
+	color: white;
+	font-family: Baskerville;
+	text-align: center;
+	margin-left: 23%;
+}
+
+
+.input{
+	border-radius: 10px;
+	width: 300px;
+	height: 20px;
+	padding: 5px;
+}
+
+.input1{
+	border-radius: 10px;
+	width: 300px;
+	height: 100px;
+	padding: 5px;
+}
+
+.btn{
+	border-radius: 10px;
+	width: 100px;
+	padding:5px;
+}
+
+footer{
+	font-family: Baskerville;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	min-height: 100%;
+	position: relative;
+	margin-top: 200px;
+
+}
+
+
+
